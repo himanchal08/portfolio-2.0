@@ -20,7 +20,7 @@ A luxurious, motion-rich portfolio website built with Next.js, TypeScript, and T
 - **AI Ready:** Includes an `llm.txt` for AI agents to parse site content.
 - **Centralized Content:** All text and data managed via `lib/data.ts` for easy updates.
 
-## 🛠️ Getting Started
+## Getting Started
 
 1.  **Clone the repository:**
 
@@ -43,14 +43,14 @@ A luxurious, motion-rich portfolio website built with Next.js, TypeScript, and T
 
 4.  Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 📁 Project Structure
+## Project Structure
 
 - `app/`: Next.js App Router pages and layouts.
 - `components/`: Reusable UI components (Hero, About, Works, etc.).
 - `lib/data.ts`: Centralized configuration file for site content.
 - `public/`: Static assets (images, textures).
 
-## 🎨 Customization
+## Customization
 
 To customize the content, simply edit `lib/data.ts`. This file controls:
 
